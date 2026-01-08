@@ -1,27 +1,24 @@
 
-# Shopping Trend Analysis
-## Project Overview
-This project analyzes shopping trends using Power BI to identify consumer behavior, sales patterns, and product performance. The insights help businesses make data-driven decisions for optimizing sales strategies. 
+ # Project Overview
+ This project analyzes customer shopping behavior to identify trends in purchasing patterns. The goal was to understand how customers interact with products and how their preferences change over time.
 
-## Tools Used  
- Power BI – Data visualization and dashboard creation
-  Power Query - Data Cleaning and Transformation
+ # Problem Statement
+ Retail businesses need to understand customer behavior in order to improve product offerings and sales strategies. This project answers questions such as:
+ What products are purchased most frequently?
+ Are there noticeable shopping trends over time?
+ How do customer preferences vary?
 
- ## Data set
-The dataset includes:  
-- Customer demographics  
-- Product categories and sales revenue  
-- Purchase frequency and shopping behavior
+ # Tools Used  
+ Power Query (Data Cleaning and Transformation)
+ Power BI (Data visualization and dashboard creation)
 
- ## Key Insights
-- Popular Product Categories: Footwear and Clothing are among the top contributors to revenue, with both categories maintaining average review ratings 
-- Most Preferred Payment Method: Credit Cards and PayPal are the most preferred payment methods, generating the highest sales. 
-- Seasonal Shopping Patterns: Sales are consistent across Fall, Winter, Spring, and Summer, showing no clear seasonal dependency
+ # What I did
+ I cleaned and structured the data to ensure accuracy. I then analyzed purchasing trends and customer behavior using Power BI and created dashboards to visualize product popularity and trend changes.
 
-## Power BI Dashboard  
-![Dashboard Preview](https://github.com/Abigail-Oluwadunsin/Data-Analysis-Projects/blob/main/shopping_trends_project.csv)  
+ # Key Insights
+ Popular Product Categories: Footwear and Clothing are among the top contributors to revenue, with both categories maintaining average review ratings 
+ Customer purchasing patterns changed over time, showing clear trends.
+ Some products had steady demand while others fluctuated significantly.
 
-The interactive dashboard provides:  
-Sales Performance Metrics – Revenue breakdown by category & location  
-Customer Segmentation – Identifying high-value customers  
-Time-Series Analysis – Sales trends over different periods  
+ # Conclusion
+ The analysis highlights how shopping data can be used to understand customer behavior and support better retail decisions.
