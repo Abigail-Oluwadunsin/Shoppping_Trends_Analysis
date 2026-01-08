@@ -20,5 +20,8 @@
  Customer purchasing patterns changed over time, showing clear trends.
  Some products had steady demand while others fluctuated significantly.
 
- # Conclusion
- The analysis highlights how shopping data can be used to understand customer behavior and support better retail decisions.
+ # Recommendations
+ Prioritize Products with Consistent Demand: Products that show steady purchasing patterns should be given priority in stocking and availability to meet customer demand consistently.
+ Adjust inventory based on observed purchasing patterns:Inventory levels should be reviewed regularly to avoid overstocking slow-moving items.
+ Use customer behavior insights to improve promotions:Insights from shopping trends can help design promotions that align with customer preferences, increasing the effectiveness of marketing efforts.
+ Monitor trends regularly to respond to changes in preferences:Understanding which products perform well can guide decisions around pricing, product placement, and marketing strategy.
